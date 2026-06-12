@@ -1,0 +1,21 @@
+{
+  "users": [
+    {
+      "id": "c5bccb05-d81f-4fe9-b092-fc54dc003d9b",
+      "name": "Abhishek Kumar",
+      "email": "work.abhishek06@gmail.com",
+      "password": {
+        "salt": "6f8d3d8a486187d2a408c64475f07e99",
+        "hash": "d2f7dc42df0221a0fea9eba0fd50ca8401990b380baec647bffaaea5a7863d1ff086adc90a878fb47fb786f92540d7a12ad154adfa2b167188dc07087a75591b"
+      },
+      "createdAt": "2026-06-12T10:16:05.789Z"
+    }
+  ],
+  "sessions": {
+    "ee4808dca5212ac7e70bb264733a6a4aec027e7c9c3c7391ce36b3f6a6bcd751": {
+      "userId": "c5bccb05-d81f-4fe9-b092-fc54dc003d9b",
+      "createdAt": "2026-06-12T10:16:05.789Z"
+    }
+  },
+  "resumes": {}
+}

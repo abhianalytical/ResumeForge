@@ -1,0 +1,11 @@
+{
+  "name": "resumeforge",
+  "version": "1.0.0",
+  "description": "ResumeForge resume builder with local auth backend",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "license": "MIT"
+}
